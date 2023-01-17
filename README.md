@@ -4,3 +4,7 @@
 npm install
 <br/>
 npm start
+
+
+noraml text to show the data
+thos tia s fwfn asdn 
