@@ -12,6 +12,6 @@ app.get("/",function(req,res){
 })
 // let seed= require('./common/seed')
 
-app.listen(3000,function(){
-    console.log("Server Running at 3000")
+app.listen(8080,function(){
+    console.log("Server Running at 8080")
 })
